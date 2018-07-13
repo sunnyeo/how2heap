@@ -1,3 +1,14 @@
+# Usage
+```
+$ make
+$ ./glibc_build.sh 2.25 [core#]
+$ ./glibc_build.sh 2.26 [core#]
+
+# ex
+$ ./first_bin 
+$ ./glibc_run.sh 2.25 glibc_2.25/fastbin_dup_into_stack
+```
+
 # Educational Heap Exploitation
 
 This repo is for learning various heap exploitation techniques.
